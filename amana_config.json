@@ -1,0 +1,5815 @@
+{
+  "source_workbook": "AMANA_Fakhar_Final_Batch (1).xlsx",
+  "keywords": [
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "psychologist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "psychiatrist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "psychotherapist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "mental health counselor",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "mental health counsellor",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "cognitive behavioral therapy",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "CBT",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "cognitive behavioural therapy",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "sex therapist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Bio",
+      "Keyword": "couples therapist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "mental health",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "anxiety",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "loneliness",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "emotional regulation",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "couples communication",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "parental burnout",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "addiction recovery",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "mindfulness meditation",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "breathing exercises",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "sexual wellbeing",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "anxious attachment",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "relationship advice",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "quit smoking",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "sobriety",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "overthinking",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "psychological trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "en",
+      "Language": "English",
+      "Modash field": "Captions",
+      "Keyword": "self-esteem",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "psychologue",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "psychiatre",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "psychothérapeute",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "psychotherapeute",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "thérapie cognitive et comportementale",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "TCC",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "sexologue",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Bio",
+      "Keyword": "thérapeute de couple",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "santé mentale",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "anxiété",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "solitude",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "régulation émotionnelle",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "communication dans le couple",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "burnout parental",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "addictions",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "méditation de pleine conscience",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "exercices de respiration",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "bien-être sexuel",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "angoisse",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "attachement anxieux",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "cohérence cardiaque",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "charge mentale",
+      "Theme": "Parenting / stress"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "arrêter de fumer",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "sobriété",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "traumatisme psychologique",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "fr",
+      "Language": "French",
+      "Modash field": "Captions",
+      "Keyword": "estime de soi",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "psicólogo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "psicóloga",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "psicologo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "psicologa",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "psiquiatra",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "psicoterapeuta",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "terapia cognitivo conductual",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "TCC",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "sexólogo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Bio",
+      "Keyword": "sexóloga",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "salud mental",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "ansiedad",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "agotamiento emocional",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "soledad",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "regulación emocional",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "terapia de pareja",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "agotamiento parental",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "adicciones",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "meditación mindfulness",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "ejercicios de respiración",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "bienestar sexual",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "apego ansioso",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "crianza respetuosa",
+      "Theme": "Parenting / emotions"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "dejar de fumar",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "trauma psicológico",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "es",
+      "Language": "Spanish",
+      "Modash field": "Captions",
+      "Keyword": "autoestima",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "psicólogo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "psicóloga",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "psicologo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "psicologa",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "psiquiatra",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "psicoterapeuta",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "terapia cognitivo comportamental",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "TCC",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "sexólogo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Bio",
+      "Keyword": "sexóloga",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "saúde mental",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "ansiedade",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "esgotamento emocional",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "solidão",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "regulação emocional",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "terapia de casal",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "esgotamento materno",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "dependência química",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "meditação mindfulness",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "exercícios de respiração",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "bem-estar sexual",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "apego ansioso",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "regulação das emoções",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "parar de fumar",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "trauma psicológico",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "pt-BR",
+      "Language": "Portuguese (Brazil)",
+      "Modash field": "Captions",
+      "Keyword": "autoestima",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "psicólogo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "psicóloga",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "psicologo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "psicologa",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "psiquiatra",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "psicoterapeuta",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "terapia cognitivo comportamental",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "TCC",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "sexólogo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Bio",
+      "Keyword": "sexóloga",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "saúde mental",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "ansiedade",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "esgotamento profissional",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "solidão",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "regulação emocional",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "terapia de casal",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "burnout parental",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "comportamentos aditivos",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "meditação mindfulness",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "exercícios de respiração",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "bem-estar sexual",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "apego ansioso",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "trauma psicológico",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "autoestima",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "pt",
+      "Language": "Portuguese (Portugal)",
+      "Modash field": "Captions",
+      "Keyword": "vinculação ansiosa",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Psychologe",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Psychologin",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Psychiater",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Psychiaterin",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Psychotherapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Psychotherapeutin",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "kognitive Verhaltenstherapie",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Verhaltenstherapie",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Sexualtherapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Bio",
+      "Keyword": "Sexualtherapeutin",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "psychische Gesundheit",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Angststörung",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Einsamkeit",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Emotionsregulation",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Paartherapie",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Elternburnout",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Suchtbewältigung",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Achtsamkeitsmeditation",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Atemübungen",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "sexuelles Wohlbefinden",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Angst",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "rauchfrei",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "psychisches Trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "Selbstwertgefühl",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "de",
+      "Language": "German",
+      "Modash field": "Captions",
+      "Keyword": "ängstlicher Bindungsstil",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "psicologo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "psicologa",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "psichiatra",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "psicoterapeuta",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "terapia cognitivo comportamentale",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "sessuologo",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Bio",
+      "Keyword": "sessuologa",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "salute mentale",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "ansia",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "esaurimento emotivo",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "solitudine",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "regolazione emotiva",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "terapia di coppia",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "burnout genitoriale",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "dipendenze",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "meditazione mindfulness",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "esercizi di respirazione",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "benessere sessuale",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "burnout",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "trauma psicologico",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "autostima",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "it",
+      "Language": "Italian",
+      "Modash field": "Captions",
+      "Keyword": "attaccamento ansioso",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Bio",
+      "Keyword": "psycholoog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Bio",
+      "Keyword": "psychiater",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Bio",
+      "Keyword": "psychotherapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Bio",
+      "Keyword": "cognitieve gedragstherapie",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Bio",
+      "Keyword": "CGT",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "mentale gezondheid",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "angststoornis",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "burn-out",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "eenzaamheid",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "emotieregulatie",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "relatietherapie",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "ouderlijke burn-out",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "verslavingsherstel",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "mindfulness meditatie",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "ademhalingsoefeningen",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "seksueel welzijn",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "psychisch trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "zelfwaardering",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "nl",
+      "Language": "Dutch",
+      "Modash field": "Captions",
+      "Keyword": "angstige hechting",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "psycholog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "psycholożka",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "psychiatra",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "psychoterapeuta",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "psychoterapeutka",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "terapia poznawczo behawioralna",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "zdrowie psychiczne",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "zaburzenia lękowe",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "wypalenie zawodowe",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "samotność",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "regulacja emocji",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "terapia par",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "wypalenie rodzicielskie",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "uzależnienia",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "medytacja uważności",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "ćwiczenia oddechowe",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "dobrostan seksualny",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "trauma psychiczna",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "poczucie własnej wartości",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "pl",
+      "Language": "Polish",
+      "Modash field": "Captions",
+      "Keyword": "lękowy styl przywiązania",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Bio",
+      "Keyword": "psiholog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Bio",
+      "Keyword": "psihiatru",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Bio",
+      "Keyword": "psihoterapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Bio",
+      "Keyword": "terapie cognitiv comportamentală",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "sănătate mintală",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "anxietate",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "epuizare profesională",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "singurătate",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "reglare emoțională",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "terapie de cuplu",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "epuizare parentală",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "dependențe",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "meditație mindfulness",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "exerciții de respirație",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "bunăstare sexuală",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "traumă psihologică",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "stima de sine",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ro",
+      "Language": "Romanian",
+      "Modash field": "Captions",
+      "Keyword": "atașament anxios",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "психолог",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "психологиня",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "психіатр",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "психотерапевт",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "психотерапевтка",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "когнітивно-поведінкова терапія",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Bio",
+      "Keyword": "КПТ",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "психічне здоров'я",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "тривожність",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "емоційне вигорання",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "самотність",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "регуляція емоцій",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "терапія пар",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "батьківське вигорання",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "залежності",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "медитація усвідомленості",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "дихальні вправи",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "сексуальне благополуччя",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "психологічна травма",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "самооцінка",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "uk",
+      "Language": "Ukrainian",
+      "Modash field": "Captions",
+      "Keyword": "тривожна прив’язаність",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Bio",
+      "Keyword": "psikolog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Bio",
+      "Keyword": "psikiyatrist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Bio",
+      "Keyword": "psikoterapist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Bio",
+      "Keyword": "psikolojik danışman",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Bio",
+      "Keyword": "bilişsel davranışçı terapi",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "ruh sağlığı",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "anksiyete",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "tükenmişlik",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "yalnızlık",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "duygu düzenleme",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "çift terapisi",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "ebeveyn tükenmişliği",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "bağımlılık",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "farkındalık meditasyonu",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "nefes egzersizleri",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "cinsel sağlık",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "psikolojik travma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "özsaygı",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "tr",
+      "Language": "Turkish",
+      "Modash field": "Captions",
+      "Keyword": "kaygılı bağlanma",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "أخصائي نفسي",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "أخصائية نفسية",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "اخصائي نفسي",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "طبيب نفسي",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "طبيبة نفسية",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "معالج نفسي",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "معالجة نفسية",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "العلاج المعرفي السلوكي",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "الصحة النفسية",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "القلق",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "الاحتراق النفسي",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "الشعور بالوحدة",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "تنظيم المشاعر",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "العلاقات الزوجية",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "الإرهاق الوالدي",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "التعافي من الإدمان",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "التأمل الواعي",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "تمارين التنفس",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "الصحة الجنسية",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "الصدمة النفسية",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "تقدير الذات",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ar",
+      "Language": "Arabic",
+      "Modash field": "Captions",
+      "Keyword": "التعلق القلق",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "פסיכולוג",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "פסיכולוגית",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "פסיכיאטר",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "פסיכיאטרית",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "פסיכותרפיסט",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "פסיכותרפיסטית",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "טיפול קוגניטיבי התנהגותי",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "בריאות הנפש",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "חרדה",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "שחיקה",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "בדידות",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "ויסות רגשי",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "טיפול זוגי",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "שחיקה הורית",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "התמכרויות",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "מדיטציית מיינדפולנס",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "תרגילי נשימה",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "רווחה מינית",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "טראומה נפשית",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "הערכה עצמית",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "he",
+      "Language": "Hebrew",
+      "Modash field": "Captions",
+      "Keyword": "התקשרות חרדה",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Bio",
+      "Keyword": "मनोवैज्ञानिक",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Bio",
+      "Keyword": "मनोचिकित्सक",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Bio",
+      "Keyword": "मनोचिकित्सा",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Bio",
+      "Keyword": "संज्ञानात्मक व्यवहार थेरेपी",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "मानसिक स्वास्थ्य",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "चिंता",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "भावनात्मक थकान",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "अकेलापन",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "भावनात्मक नियंत्रण",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "वैवाहिक परामर्श",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "परवरिश का तनाव",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "नशा मुक्ति",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "माइंडफुलनेस मेडिटेशन",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "साँस के व्यायाम",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "यौन स्वास्थ्य",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "chinta",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "akelapan",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "मनोवैज्ञानिक आघात",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "hi",
+      "Language": "Hindi",
+      "Modash field": "Captions",
+      "Keyword": "आत्मसम्मान",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Bio",
+      "Keyword": "মনোবিজ্ঞানী",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Bio",
+      "Keyword": "মনোরোগ বিশেষজ্ঞ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Bio",
+      "Keyword": "সাইকোথেরাপিস্ট",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Bio",
+      "Keyword": "কগনিটিভ বিহেভিয়ারাল থেরাপি",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "মানসিক স্বাস্থ্য",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "উদ্বেগ",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "মানসিক ক্লান্তি",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "একাকীত্ব",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "আবেগ নিয়ন্ত্রণ",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "দাম্পত্য পরামর্শ",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "সন্তান লালন-পালনের চাপ",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "আসক্তি থেকে মুক্তি",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "মাইন্ডফুলনেস মেডিটেশন",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "শ্বাসের ব্যায়াম",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "যৌন স্বাস্থ্য",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "mansik shastho",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "মানসিক আঘাত",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "bn",
+      "Language": "Bengali",
+      "Modash field": "Captions",
+      "Keyword": "আত্মসম্মান",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Bio",
+      "Keyword": "ماہر نفسیات",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Bio",
+      "Keyword": "ماہر امراض نفسیات",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Bio",
+      "Keyword": "سائیکوتھراپسٹ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Bio",
+      "Keyword": "کاگنیٹو بیہیویئرل تھراپی",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "ذہنی صحت",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "بے چینی",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "ذہنی تھکن",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "تنہائی",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "جذبات پر قابو",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "ازدواجی مشاورت",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "والدین کا ذہنی دباؤ",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "نشے سے نجات",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "مائنڈفلنیس میڈیٹیشن",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "سانس کی مشقیں",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "جنسی صحت",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "zehni sehat",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "tanhai",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "نفسیاتی صدمہ",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ur",
+      "Language": "Urdu",
+      "Modash field": "Captions",
+      "Keyword": "خود اعتمادی",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Bio",
+      "Keyword": "మనస్తత్వ శాస్త్రవేత్త",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Bio",
+      "Keyword": "మానసిక వైద్యుడు",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Bio",
+      "Keyword": "సైకోథెరపిస్ట్",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Bio",
+      "Keyword": "కాగ్నిటివ్ బిహేవియరల్ థెరపీ",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "మానసిక ఆరోగ్యం",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "ఆందోళన",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "మానసిక అలసట",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "ఒంటరితనం",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "భావోద్వేగ నియంత్రణ",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "వైవాహిక కౌన్సెలింగ్",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "పిల్లల పెంపకంలో ఒత్తిడి",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "వ్యసన విముక్తి",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "మైండ్‌ఫుల్‌నెస్ ధ్యానం",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "శ్వాస వ్యాయామాలు",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "లైంగిక ఆరోగ్యం",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "మానసిక గాయం",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "te",
+      "Language": "Telugu",
+      "Modash field": "Captions",
+      "Keyword": "ఆత్మగౌరవం",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Bio",
+      "Keyword": "உளவியலாளர்",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Bio",
+      "Keyword": "மனநல மருத்துவர்",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Bio",
+      "Keyword": "உளவியல் ஆலோசகர்",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Bio",
+      "Keyword": "அறிவாற்றல் நடத்தை சிகிச்சை",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "மனநலம்",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "பதட்டம்",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "பணிச்சோர்வு",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "தனிமை",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "உணர்ச்சிக் கட்டுப்பாடு",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "திருமண ஆலோசனை",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "குழந்தை வளர்ப்பு மன அழுத்தம்",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "போதைப் பழக்கத்திலிருந்து மீட்பு",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "கவனயீர்ப்பு தியானம்",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "மூச்சுப் பயிற்சி",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "பாலியல் நலம்",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "உளவியல் அதிர்ச்சி",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ta",
+      "Language": "Tamil",
+      "Modash field": "Captions",
+      "Keyword": "சுயமரியாதை",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Bio",
+      "Keyword": "मानसशास्त्रज्ञ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Bio",
+      "Keyword": "मनोविकारतज्ज्ञ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Bio",
+      "Keyword": "मानसोपचारतज्ज्ञ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Bio",
+      "Keyword": "संज्ञानात्मक वर्तन उपचार",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "मानसिक आरोग्य",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "चिंता",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "भावनिक थकवा",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "एकटेपणा",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "भावनांचे नियमन",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "वैवाहिक समुपदेशन",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "पालकत्वाचा ताण",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "व्यसनमुक्ती",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "सजग ध्यान",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "श्वसनाचे व्यायाम",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "लैंगिक आरोग्य",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "मानसिक आघात",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "mr",
+      "Language": "Marathi",
+      "Modash field": "Captions",
+      "Keyword": "आत्मसन्मान",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Bio",
+      "Keyword": "મનોવૈજ્ઞાનિક",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Bio",
+      "Keyword": "મનોચિકિત્સક",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Bio",
+      "Keyword": "મનોવિજ્ઞાની",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Bio",
+      "Keyword": "કોગ્નિટિવ બિહેવિયરલ થેરાપી",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "માનસિક સ્વાસ્થ્ય",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "ચિંતા",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "માનસિક થાક",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "એકલતા",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "લાગણીઓનું નિયંત્રણ",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "લગ્નજીવનનું કાઉન્સેલિંગ",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "વાલીપણાનો તણાવ",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "વ્યસનમુક્તિ",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "માઇન્ડફુલનેસ મેડિટેશન",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "શ્વાસની કસરતો",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "જાતીય સ્વાસ્થ્ય",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "માનસિક આઘાત",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "gu",
+      "Language": "Gujarati",
+      "Modash field": "Captions",
+      "Keyword": "આત્મસન્માન",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Bio",
+      "Keyword": "ಮನಶ್ಶಾಸ್ತ್ರಜ್ಞ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Bio",
+      "Keyword": "ಮನೋವೈದ್ಯ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Bio",
+      "Keyword": "ಮನೋಚಿಕಿತ್ಸಕ",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Bio",
+      "Keyword": "ಕಾಗ್ನಿಟಿವ್ ಬಿಹೇವಿಯರಲ್ ಥೆರಪಿ",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಮಾನಸಿಕ ಆರೋಗ್ಯ",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಆತಂಕ",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಮಾನಸಿಕ ಆಯಾಸ",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಒಂಟಿತನ",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಭಾವನಾತ್ಮಕ ನಿಯಂತ್ರಣ",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ದಾಂಪತ್ಯ ಸಮಾಲೋಚನೆ",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಪೋಷಕತ್ವದ ಒತ್ತಡ",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ವ್ಯಸನಮುಕ್ತಿ",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಮೈಂಡ್‌ಫುಲ್‌ನೆಸ್ ಧ್ಯಾನ",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಉಸಿರಾಟದ ವ್ಯಾಯಾಮ",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಲೈಂಗಿಕ ಆರೋಗ್ಯ",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಮಾನಸಿಕ ಆಘಾತ",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "kn",
+      "Language": "Kannada",
+      "Modash field": "Captions",
+      "Keyword": "ಆತ್ಮಗೌರವ",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Bio",
+      "Keyword": "公認心理師",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Bio",
+      "Keyword": "臨床心理士",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Bio",
+      "Keyword": "精神科医",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Bio",
+      "Keyword": "心理カウンセラー",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Bio",
+      "Keyword": "認知行動療法",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "メンタルヘルス",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "不安障害",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "燃え尽き症候群",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "孤独感",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "感情調整",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "夫婦カウンセリング",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "育児ストレス",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "依存症からの回復",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "マインドフルネス瞑想",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "呼吸法",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "セクシュアルウェルネス",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "心的外傷",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "自尊心",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ja",
+      "Language": "Japanese",
+      "Modash field": "Captions",
+      "Keyword": "不安型愛着",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Bio",
+      "Keyword": "심리상담사",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Bio",
+      "Keyword": "상담심리사",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Bio",
+      "Keyword": "정신건강의학과 전문의",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Bio",
+      "Keyword": "정신과 의사",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Bio",
+      "Keyword": "인지행동치료",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "정신건강",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "불안장애",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "번아웃",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "외로움",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "감정 조절",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "부부 상담",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "육아 스트레스",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "중독 회복",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "마음챙김 명상",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "호흡 운동",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "성 건강",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "심리적 외상",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "자존감",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ko",
+      "Language": "Korean",
+      "Modash field": "Captions",
+      "Keyword": "불안형 애착",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Bio",
+      "Keyword": "諮商心理師",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Bio",
+      "Keyword": "臨床心理師",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Bio",
+      "Keyword": "精神科醫師",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Bio",
+      "Keyword": "精神科醫生",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Bio",
+      "Keyword": "認知行為治療",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "心理健康",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "焦慮",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "職業倦怠",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "孤獨感",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "情緒調節",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "伴侶諮商",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "育兒壓力",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "成癮復原",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "正念冥想",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "呼吸練習",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "性健康",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "心理創傷",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "自尊",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "zh-TW",
+      "Language": "Traditional Chinese",
+      "Modash field": "Captions",
+      "Keyword": "焦慮型依附",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Bio",
+      "Keyword": "心理咨询师",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Bio",
+      "Keyword": "临床心理师",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Bio",
+      "Keyword": "精神科医生",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Bio",
+      "Keyword": "心理辅导员",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Bio",
+      "Keyword": "认知行为疗法",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "心理健康",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "焦虑",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "职业倦怠",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "孤独感",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "情绪调节",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "伴侣咨询",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "育儿压力",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "成瘾康复",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "正念冥想",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "呼吸练习",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "性健康",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "心理创伤",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "自尊",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "zh",
+      "Language": "Simplified Chinese",
+      "Modash field": "Captions",
+      "Keyword": "焦虑型依恋",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Bio",
+      "Keyword": "นักจิตวิทยา",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Bio",
+      "Keyword": "จิตแพทย์",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Bio",
+      "Keyword": "นักจิตบำบัด",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Bio",
+      "Keyword": "การบำบัดความคิดและพฤติกรรม",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "สุขภาพจิต",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "ความวิตกกังวล",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "ภาวะหมดไฟ",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "ความเหงา",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "การควบคุมอารมณ์",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "การให้คำปรึกษาคู่รัก",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "ความเครียดในการเลี้ยงลูก",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "การฟื้นฟูจากการเสพติด",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "การฝึกสติ",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "ฝึกหายใจ",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "สุขภาวะทางเพศ",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "บาดแผลทางใจ",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "การเห็นคุณค่าในตนเอง",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "th",
+      "Language": "Thai",
+      "Modash field": "Captions",
+      "Keyword": "ความผูกพันแบบวิตกกังวล",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Bio",
+      "Keyword": "psikolog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Bio",
+      "Keyword": "psikiater",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Bio",
+      "Keyword": "psikoterapis",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Bio",
+      "Keyword": "konselor kesehatan mental",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Bio",
+      "Keyword": "terapi perilaku kognitif",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "kesehatan mental",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "kecemasan",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "kelelahan emosional",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "kesepian",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "regulasi emosi",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "terapi pasangan",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "stres pengasuhan",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "pemulihan kecanduan",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "meditasi mindfulness",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "latihan pernapasan",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "kesehatan seksual",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "overthinking",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "trauma psikologis",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "harga diri",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "id",
+      "Language": "Indonesian",
+      "Modash field": "Captions",
+      "Keyword": "keterikatan cemas",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Bio",
+      "Keyword": "ahli psikologi",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Bio",
+      "Keyword": "pakar psikiatri",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Bio",
+      "Keyword": "ahli psikoterapi",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Bio",
+      "Keyword": "kaunselor kesihatan mental",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Bio",
+      "Keyword": "terapi tingkah laku kognitif",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "kesihatan mental",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "kebimbangan",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "keletihan emosi",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "kesunyian",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "pengawalan emosi",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "kaunseling pasangan",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "tekanan keibubapaan",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "pemulihan ketagihan",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "meditasi kesedaran",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "latihan pernafasan",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "kesihatan seksual",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "trauma psikologi",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "harga diri",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "ms",
+      "Language": "Malay",
+      "Modash field": "Captions",
+      "Keyword": "keterikatan cemas",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Bio",
+      "Keyword": "nhà tâm lý học",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Bio",
+      "Keyword": "chuyên gia tâm lý",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Bio",
+      "Keyword": "bác sĩ tâm thần",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Bio",
+      "Keyword": "chuyên gia trị liệu tâm lý",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Bio",
+      "Keyword": "liệu pháp nhận thức hành vi",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "sức khỏe tinh thần",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "lo âu",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "kiệt sức",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "cô đơn",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "điều hòa cảm xúc",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "tư vấn hôn nhân",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "căng thẳng khi nuôi con",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "phục hồi nghiện",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "thiền chánh niệm",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "bài tập thở",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "sức khỏe tình dục",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "sang chấn tâm lý",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "lòng tự trọng",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "vi",
+      "Language": "Vietnamese",
+      "Modash field": "Captions",
+      "Keyword": "gắn bó lo âu",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Bio",
+      "Keyword": "sikolohista",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Bio",
+      "Keyword": "sikiyatrista",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Bio",
+      "Keyword": "psychologist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Bio",
+      "Keyword": "psychotherapist",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Bio",
+      "Keyword": "cognitive behavioral therapy",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "kalusugang pangkaisipan",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "pagkabalisa",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "pagkapagod sa trabaho",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "kalungkutan",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "pagkontrol ng emosyon",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "payo sa relasyon",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "stress sa pagiging magulang",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "pagbangon mula sa adiksyon",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "mindfulness meditation",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "ehersisyo sa paghinga",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "kalusugang sekswal",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "mental health",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "sikolohikal na trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "pagpapahalaga sa sarili",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "tl",
+      "Language": "Filipino / Tagalog",
+      "Modash field": "Captions",
+      "Keyword": "anxious attachment",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Bio",
+      "Keyword": "psykolog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Bio",
+      "Keyword": "psykiater",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Bio",
+      "Keyword": "psykoterapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Bio",
+      "Keyword": "kognitiv beteendeterapi",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Bio",
+      "Keyword": "KBT",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "psykisk hälsa",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "ångest",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "utmattning",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "ensamhet",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "känsloreglering",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "parterapi",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "föräldrastress",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "beroende",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "mindfulnessmeditation",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "andningsövningar",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "sexuell hälsa",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "psykiskt trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "självkänsla",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "sv",
+      "Language": "Swedish",
+      "Modash field": "Captions",
+      "Keyword": "ängslig anknytning",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Bio",
+      "Keyword": "psykologi",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Bio",
+      "Keyword": "psykiatri",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Bio",
+      "Keyword": "psykoterapeutti",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Bio",
+      "Keyword": "kognitiivinen käyttäytymisterapia",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "mielenterveys",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "ahdistus",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "työuupumus",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "yksinäisyys",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "tunteiden säätely",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "pariterapia",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "vanhemmuuden uupumus",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "riippuvuus",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "mindfulness-meditaatio",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "hengitysharjoitukset",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "seksuaalinen hyvinvointi",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "psyykkinen trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "itsetunto",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "fi",
+      "Language": "Finnish",
+      "Modash field": "Captions",
+      "Keyword": "ahdistunut kiintymyssuhde",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Bio",
+      "Keyword": "psykolog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Bio",
+      "Keyword": "psykiater",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Bio",
+      "Keyword": "psykoterapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Bio",
+      "Keyword": "kognitiv adfærdsterapi",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "mental sundhed",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "angst",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "udbrændthed",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "ensomhed",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "følelsesregulering",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "parterapi",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "forældrestress",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "afhængighed",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "mindfulnessmeditation",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "åndedrætsøvelser",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "seksuel trivsel",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "psykisk traume",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "selvværd",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "da",
+      "Language": "Danish",
+      "Modash field": "Captions",
+      "Keyword": "ængstelig tilknytning",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "psycholog",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "psycholožka",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "psychiatr",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "psychiatrička",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "psychoterapeut",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "psychoterapeutka",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "kognitivně behaviorální terapie",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Bio",
+      "Keyword": "KBT",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "duševní zdraví",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "úzkost",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "syndrom vyhoření",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "osamělost",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "regulace emocí",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "párová terapie",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "rodičovské vyhoření",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "závislosti",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "meditace všímavosti",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "dechová cvičení",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "sexuální zdraví",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "psychické trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "sebeúcta",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "cs",
+      "Language": "Czech",
+      "Modash field": "Captions",
+      "Keyword": "úzkostná citová vazba",
+      "Theme": "Attachment"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Bio",
+      "Keyword": "pszichológus",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Bio",
+      "Keyword": "pszichiáter",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Bio",
+      "Keyword": "pszichoterapeuta",
+      "Theme": "Professional role"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Bio",
+      "Keyword": "kognitív viselkedésterápia",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Bio",
+      "Keyword": "EMDR",
+      "Theme": "Therapy approach"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "mentális egészség",
+      "Theme": "Mental health"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "szorongás",
+      "Theme": "Anxiety"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "kiégés",
+      "Theme": "Burnout / exhaustion"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "magány",
+      "Theme": "Loneliness"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "érzelemszabályozás",
+      "Theme": "Emotional regulation"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "párterápia",
+      "Theme": "Couple / relationships"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "szülői kiégés",
+      "Theme": "Parenting stress"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "függőség",
+      "Theme": "Addictions"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "tudatos jelenlét meditáció",
+      "Theme": "Meditation / mindfulness"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "légzőgyakorlatok",
+      "Theme": "Breathing / coping"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "szexuális jóllét",
+      "Theme": "Sexual wellbeing / intimacy"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "lelki trauma",
+      "Theme": "Psychological trauma"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "önbecsülés",
+      "Theme": "Self-esteem"
+    },
+    {
+      "Language code": "hu",
+      "Language": "Hungarian",
+      "Modash field": "Captions",
+      "Keyword": "szorongó kötődés",
+      "Theme": "Attachment"
+    }
+  ],
+  "countries": [
+    {
+      "Country": "India",
+      "ISO": "IN",
+      "Search language codes": "hi, bn, te, ta, mr, gu, kn, ur, en",
+      "Next 35k proposed": 3200,
+      "Platform / allocation note": "Instagram + YouTube"
+    },
+    {
+      "Country": "Brazil",
+      "ISO": "BR",
+      "Search language codes": "pt-BR",
+      "Next 35k proposed": 2550,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Indonesia",
+      "ISO": "ID",
+      "Search language codes": "id",
+      "Next 35k proposed": 2300,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Mexico",
+      "ISO": "MX",
+      "Search language codes": "es",
+      "Next 35k proposed": 1650,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Turkey",
+      "ISO": "TR",
+      "Search language codes": "tr",
+      "Next 35k proposed": 1250,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Pakistan",
+      "ISO": "PK",
+      "Search language codes": "ur, en",
+      "Next 35k proposed": 1150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Philippines",
+      "ISO": "PH",
+      "Search language codes": "tl, en",
+      "Next 35k proposed": 1150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Japan",
+      "ISO": "JP",
+      "Search language codes": "ja",
+      "Next 35k proposed": 1150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Egypt",
+      "ISO": "EG",
+      "Search language codes": "ar",
+      "Next 35k proposed": 1000,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Colombia",
+      "ISO": "CO",
+      "Search language codes": "es",
+      "Next 35k proposed": 850,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "United Kingdom",
+      "ISO": "GB",
+      "Search language codes": "en",
+      "Next 35k proposed": 850,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Germany",
+      "ISO": "DE",
+      "Search language codes": "de",
+      "Next 35k proposed": 850,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Bangladesh",
+      "ISO": "BD",
+      "Search language codes": "bn",
+      "Next 35k proposed": 800,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Argentina",
+      "ISO": "AR",
+      "Search language codes": "es",
+      "Next 35k proposed": 800,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Thailand",
+      "ISO": "TH",
+      "Search language codes": "th",
+      "Next 35k proposed": 750,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "France",
+      "ISO": "FR",
+      "Search language codes": "fr",
+      "Next 35k proposed": 800,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Vietnam",
+      "ISO": "VN",
+      "Search language codes": "vi",
+      "Next 35k proposed": 800,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Saudi Arabia",
+      "ISO": "SA",
+      "Search language codes": "ar, en",
+      "Next 35k proposed": 750,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Italy",
+      "ISO": "IT",
+      "Search language codes": "it",
+      "Next 35k proposed": 700,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Nigeria",
+      "ISO": "NG",
+      "Search language codes": "en",
+      "Next 35k proposed": 750,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Spain",
+      "ISO": "ES",
+      "Search language codes": "es",
+      "Next 35k proposed": 700,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Peru",
+      "ISO": "PE",
+      "Search language codes": "es",
+      "Next 35k proposed": 550,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Malaysia",
+      "ISO": "MY",
+      "Search language codes": "ms, en, zh, ta",
+      "Next 35k proposed": 600,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Algeria",
+      "ISO": "DZ",
+      "Search language codes": "ar, fr",
+      "Next 35k proposed": 550,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Canada",
+      "ISO": "CA",
+      "Search language codes": "en, fr",
+      "Next 35k proposed": 550,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "South Africa",
+      "ISO": "ZA",
+      "Search language codes": "en",
+      "Next 35k proposed": 500,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "South Korea",
+      "ISO": "KR",
+      "Search language codes": "ko",
+      "Next 35k proposed": 550,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Chile",
+      "ISO": "CL",
+      "Search language codes": "es",
+      "Next 35k proposed": 500,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Ukraine",
+      "ISO": "UA",
+      "Search language codes": "uk",
+      "Next 35k proposed": 500,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Morocco",
+      "ISO": "MA",
+      "Search language codes": "ar, fr",
+      "Next 35k proposed": 450,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Poland",
+      "ISO": "PL",
+      "Search language codes": "pl",
+      "Next 35k proposed": 400,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Australia",
+      "ISO": "AU",
+      "Search language codes": "en",
+      "Next 35k proposed": 350,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Taiwan",
+      "ISO": "TW",
+      "Search language codes": "zh-TW",
+      "Next 35k proposed": 350,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Ecuador",
+      "ISO": "EC",
+      "Search language codes": "es",
+      "Next 35k proposed": 350,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "United Arab Emirates",
+      "ISO": "AE",
+      "Search language codes": "ar, en, hi, ur",
+      "Next 35k proposed": 350,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Kenya",
+      "ISO": "KE",
+      "Search language codes": "en",
+      "Next 35k proposed": 300,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Romania",
+      "ISO": "RO",
+      "Search language codes": "ro",
+      "Next 35k proposed": 250,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Netherlands",
+      "ISO": "NL",
+      "Search language codes": "nl",
+      "Next 35k proposed": 300,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Ghana",
+      "ISO": "GH",
+      "Search language codes": "en",
+      "Next 35k proposed": 200,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Portugal",
+      "ISO": "PT",
+      "Search language codes": "pt",
+      "Next 35k proposed": 200,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Israel",
+      "ISO": "IL",
+      "Search language codes": "he, ar, en",
+      "Next 35k proposed": 200,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Tunisia",
+      "ISO": "TN",
+      "Search language codes": "ar, fr",
+      "Next 35k proposed": 200,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Belgium",
+      "ISO": "BE",
+      "Search language codes": "fr, nl, de",
+      "Next 35k proposed": 150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Jordan",
+      "ISO": "JO",
+      "Search language codes": "ar, en",
+      "Next 35k proposed": 150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Singapore",
+      "ISO": "SG",
+      "Search language codes": "en, zh, ms, ta",
+      "Next 35k proposed": 150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Switzerland",
+      "ISO": "CH",
+      "Search language codes": "fr, de, it, en",
+      "Next 35k proposed": 150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Côte d'Ivoire",
+      "ISO": "CI",
+      "Search language codes": "fr",
+      "Next 35k proposed": 150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Austria",
+      "ISO": "AT",
+      "Search language codes": "de",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Senegal",
+      "ISO": "SN",
+      "Search language codes": "fr",
+      "Next 35k proposed": 150,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Ireland",
+      "ISO": "IE",
+      "Search language codes": "en",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "New Zealand",
+      "ISO": "NZ",
+      "Search language codes": "en",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Hong Kong",
+      "ISO": "HK",
+      "Search language codes": "zh-TW, en",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "TikTok flexibility"
+    },
+    {
+      "Country": "Cameroon",
+      "ISO": "CM",
+      "Search language codes": "fr, en",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": null
+    },
+    {
+      "Country": "Sweden",
+      "ISO": "SE",
+      "Search language codes": "sv",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "Added market: 100 proposed"
+    },
+    {
+      "Country": "Finland",
+      "ISO": "FI",
+      "Search language codes": "fi, sv",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "Added market: 100 proposed"
+    },
+    {
+      "Country": "Denmark",
+      "ISO": "DK",
+      "Search language codes": "da",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "Added market: 100 proposed"
+    },
+    {
+      "Country": "Czechia",
+      "ISO": "CZ",
+      "Search language codes": "cs",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "Added market: 100 proposed"
+    },
+    {
+      "Country": "Hungary",
+      "ISO": "HU",
+      "Search language codes": "hu",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "Added market: 100 proposed"
+    },
+    {
+      "Country": "Lebanon",
+      "ISO": "LB",
+      "Search language codes": "ar, fr, en",
+      "Next 35k proposed": 100,
+      "Platform / allocation note": "Added market: 100 proposed"
+    }
+  ],
+  "delivery_headers": [
+    "platform",
+    "account_handle",
+    "full_name",
+    "followers",
+    "bio",
+    "email",
+    "country",
+    "language",
+    "website",
+    "profile_url",
+    "email_source_url",
+    "search_field",
+    "search_expression",
+    "theme",
+    "last_post_date",
+    "country_evidence_url",
+    "notes"
+  ],
+  "rules": {
+    "default_follower_min": 300,
+    "default_follower_max": 10000,
+    "last_post_days": 30,
+    "recent_relevant_posts_min": 2,
+    "recent_relevant_days": 90
+  }
+}
